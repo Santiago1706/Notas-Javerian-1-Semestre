@@ -200,7 +200,7 @@
                 <tr>
                     <td>Proyecto final</td>
                     <td>30%</td>
-                    <td class="nota">3.2</td>
+                    <td class="nota">5.0</td>
                 </tr>
             </table>
         </section>
