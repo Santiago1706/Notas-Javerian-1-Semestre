@@ -1,4 +1,3 @@
-# Notas-Javerian-1-Semestre
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -14,7 +13,7 @@
         }
         
         #menu {
-            width: 250px;
+            width: 500px;
             background: #333;
             color: white;
             padding: 20px;
