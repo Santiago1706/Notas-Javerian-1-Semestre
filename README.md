@@ -13,7 +13,7 @@
         }
         
         #menu {
-            width: 500px;
+            width: 250px;
             background: #333;
             color: white;
             padding: 20px;
